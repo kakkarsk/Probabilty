@@ -1,2 +1,0 @@
-# Probabilty
-Basic work
